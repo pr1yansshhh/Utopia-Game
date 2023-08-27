@@ -34,7 +34,7 @@ Welcome to Utopia Game, an exciting endless runner game inspired by the offline 
 
 ## Gameplay
 
-Your goal is to guide the Travis Scott character through the vibrant landscape of Utopia while avoiding obstacle (Playboi Carti). The game gradually increases in speed, making it more challenging as you progress. How far can you go?
+Your goal is to guide the Travis Scott character through the vibrant landscape of Utopia while avoiding obstacles (Playboi Carti). The game gradually increases in speed, making it more challenging as you progress. How far can you go?
 
 ## Controls
 
@@ -45,10 +45,10 @@ Your goal is to guide the Travis Scott character through the vibrant landscape o
 ## Credits
 
 - Game Design: Priyansh Dogra
-- Soundtrack: Travis Scott
+- Soundtrack: FE!N by Travis Scott
 - Game Engine: HTML, CSS, JavaScript
 - Travis Scott Theme Inspiration: Travis Scott, the rapper
-- 
+  
 ## Contact
 
 For any inquiries, please contact [priyanshdogra123@email.com]. Pull requests are welcome on the GitHub repository at [https://github.com/pr1yansshhh/Utopia-Game].
